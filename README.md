@@ -47,6 +47,12 @@ experiments. The predictor expects luminance (cd/m^2) as the input. If
 the calibration data does not exist, inverse gamma transformation may be 
 used to approximately compute linear values from sRGB (gamma = 2.2).
 
+# OpenGL and Unity Applications
+
+They are available for download at:
+
+    https://www.pdf.inf.usi.ch/projects/AdaptiveFoveation/AdaptiveFoveation.zip
+
 # Links
 
 Our project website:
