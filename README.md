@@ -1,3 +1,4 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/cara86t/AwareFoveation)
 # Luminance-Contrast-Aware Foveated Rendering
 
 This repository contains the Matlab implementation of the sigma predictor from:
